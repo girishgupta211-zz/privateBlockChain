@@ -1,0 +1,4 @@
+eth.accounts
+eth.getBalance
+eth.getBalance()
+eth.getBalance("0xef0e5806e9242cb41611267a6f1cdb95ea4a313e")
